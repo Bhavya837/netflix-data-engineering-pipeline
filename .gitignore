@@ -1,0 +1,23 @@
+# Databricks
+.databricks/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Local data files
+*.csv
+*.parquet
+*.delta
+
+# OS files
+.DS_Store
+Thumbs.db
